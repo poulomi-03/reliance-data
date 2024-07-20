@@ -7,7 +7,9 @@ Login Form Preview ![](/output/admin-login.png)
 
 File Upload Preview ![](/output/petroleum-data.png)
 
+Folder Structure ![](/output/folder-stucture.png)
 
+Admin Data ![](/output/admin-data.png)
 
 
 # Database Structure
