@@ -1,0 +1,104 @@
+/* Universal design starts */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+}
+
+/* Scrollbar styles for WebKit browsers (Chrome, Safari) */
+*::-webkit-scrollbar {
+    width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #ee6262;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #000000;  /* Scrollbar thumb color */
+    border-radius: 10px;
+    border: 3px solid #f1f1f1;  /* Optional: adds padding around thumb */
+}
+
+/* Scrollbar styles for Firefox */
+* {
+    scrollbar-width: thin;  /* "auto" or "thin" */
+    scrollbar-color: #05445E #f1f1f1;  /* thumb color and track color */
+}
+
+
+
+
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+  overflow-x: hidden;
+}
+
+
+p {
+  font-size: 28px;
+  font-weight: 300;
+  color: #cfa866;
+  font-weight: 700;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  list-style: none;
+  font-family: "PT Sans", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  transition: 0.5s;
+  cursor: pointer;
+  text-align: center;
+  /* margin-left: 47%; */
+  color: #000;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+/* a:hover {
+  color: #75e6da;
+  transition: 0.5s;
+} */
+
+
+input {
+  width: 250px;
+  height: 35px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding-left: 10px;
+  outline: 0;
+  outline-color: none;
+  border: none;
+}
+
+i {
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+i:hover {
+  color: #189ab4;
+}
+
+span{
+  color: #189ab4;
+  font-weight: 600;
+}
+
+/* universal design ends */
