@@ -1,8 +1,14 @@
-Home Preview
+Home Preview 
 
-Login Form Preview
+![](/output/home-page.png)
 
-File Upload Preview
+Login Form Preview ![](/output/admin-login.png)
+
+
+File Upload Preview ![](/output/petroleum-data.png)
+
+
+
 
 # Database Structure
 Database Name: reliance-data
